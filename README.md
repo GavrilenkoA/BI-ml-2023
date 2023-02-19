@@ -1,2 +1,1 @@
-# BI-ml-2023
-Course "Machine learning"  in Bioinformatics Institute
+Linear models and gradient descent.
